@@ -1,5 +1,5 @@
 About Me:
-🔭 I’m currently working on a Hospital's Mobile App on Flutter<br>👯 I’m looking to collaborate on Front-end Projects<br>🌱 I’m currently learning React, Django, and Flutter!<br>💬 Ask me about anything!
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Front-end Projects<br>🌱 I’m currently learning React, Django, and Flutter!<br>💬 Ask me about anything!
 
 
 # 💻 Tech Stack:
