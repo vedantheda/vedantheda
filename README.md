@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **AI related projects**
 
-- 💬 Ask me about **flutter, react, core java data structures and algorithms**
+- 💬 Ask me about **flutter, react, core java**
 
 - 📫 How to reach me **vedant.heda@outlook.com**
 
